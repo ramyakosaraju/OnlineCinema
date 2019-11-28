@@ -39,7 +39,7 @@ public class UsersController {
 	private MessageSource messageSource;
 
 	private EmailUtils emailUtils;
-	
+
 	private UserDao userDao;
 	
 	/**
